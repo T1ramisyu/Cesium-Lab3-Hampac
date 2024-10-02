@@ -1,0 +1,23 @@
+tr{
+	text-align: center;
+}
+
+td{
+	padding: 5px;
+}
+
+.math{
+	background-color: #ADD8E6;
+}
+
+.chem{
+	background-color: #FFB6C1;
+}
+
+.comsci{
+	background-color: #FAFAD2;
+}
+
+.valed{
+	background-color: #98FB98;
+}
